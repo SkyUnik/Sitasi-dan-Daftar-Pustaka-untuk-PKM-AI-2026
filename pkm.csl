@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="id-ID">
   <info>
-    <title>Cite Them Right 12th edition (author-date/Harvard)</title>
-    <id>oyoyoyo</id>
-
+    <title>Sitasi Harvard PKM (author-date/dijabarin)</title>
+    <id>pkm-belmawa</id>
+    <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="self"/>
+    <link href="http://www.zotero.org/styles/harvard-cite-them-right-11th-edition" rel="template"/>
+    <link href="http://www.citethemrightonline.com/" rel="documentation"/>
     <author>
       <name>Patrick O'Brien</name>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Harvard according to Cite Them Right, 11th edition.</summary>
-    <updated>2026-04-02T10:18:21+00:00</updated>
+    <updated>2026-02-12T10:08:06+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-GB">
@@ -107,7 +109,7 @@
       <else-if variable="URL">
         <text term="available at" suffix=": " text-case="capitalize-first"/>
         <text variable="URL"/>
-        <group prefix=" (" delimiter=": " suffix=")">
+        <group prefix=" (" delimiter=" " suffix=")">
           <text term="accessed" text-case="capitalize-first"/>
           <date form="text" variable="accessed">
             <date-part name="day"/>
