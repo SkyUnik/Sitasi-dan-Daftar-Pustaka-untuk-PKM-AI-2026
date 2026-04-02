@@ -100,9 +100,9 @@
           <group prefix="(" suffix=").">
             <text term="Diakses" suffix=" "/>
             <date variable="accessed">
-              <date-part name="month" />
-              <date-part name="day" />
-              <date-part name="year" />
+              <date-part name="month" form="numeric" suffix="."/>
+              <date-part name="day" suffix="."/>
+              <date-part name="year" form="short"/>
             </date>
           </group>
         </group>
