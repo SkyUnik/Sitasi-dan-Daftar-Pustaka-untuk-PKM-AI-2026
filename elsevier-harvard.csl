@@ -2,6 +2,10 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
   <info>
     <title>Elsevier (author-date/Harvard, PKM valid)</title>
+    <id>http://www.zotero.org/styles/elsevier-harvard</id>
+    <link href="http://www.zotero.org/styles/elsevier-harvard" rel="self"/>
+    <link href="http://www.zotero.org/styles/ecology-letters" rel="template"/>
+    <link href="http://www.elsevier.com/journals/biological-conservation/0006-3207/guide-for-authors#68000" rel="documentation"/>
     <author>
       <name>David Kaplan</name>
       <email>david.kaplan@ird.fr</email>
