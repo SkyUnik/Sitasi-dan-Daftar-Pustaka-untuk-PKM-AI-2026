@@ -98,7 +98,7 @@
           <text value="URL"/>
           <text variable="URL"/>
           <group prefix="(" suffix=").">
-            <text term="accessed" suffix=" "/>
+            <text term="Diakses" suffix=" "/>
             <date variable="accessed">
               <date-part name="month" form="numeric" suffix="."/>
               <date-part name="day" suffix="."/>
