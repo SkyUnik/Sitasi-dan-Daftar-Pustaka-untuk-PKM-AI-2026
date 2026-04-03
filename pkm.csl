@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
   <info>
-    <title>Sitasi Harvard PKM (author-date/dijabarin)</title>
-    <id>pkm-belmawa</id>
+    <title>Sitasi Harvard PKM (author-dijabarin)</title>
+    <id>pkm-belmawa-upn</id>
     <link href="http://www.zotero.org/styles/harvard-cite-them-right" rel="self"/>
     <author>
       <name>Visual Tutor Refactored</name>
